@@ -37,4 +37,4 @@ This project uses machine learning and explainable AI to classify news articles 
 - LIME explanation for a sample prediction
 
 ## Author
-Your Name Here
+Prince Kachhwaha
